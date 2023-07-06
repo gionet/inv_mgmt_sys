@@ -59,7 +59,7 @@ EDIT FUNCTION
 ### History _navbar_ - History Logs
 ```
 - Displays the list of all client's order with the User column
-- Able to identify who created the entry
+- Shows which user account created the entry
 ```
   
 ### Account _navbar_ - Account Settings
