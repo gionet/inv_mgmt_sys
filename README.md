@@ -1,6 +1,6 @@
 Gionet Vendor  
 Video Demo: https://www.youtube.com/watch?v=CDDvZ4ZmHB4  
-Description: Inventory Management System
+Description: Inventory Management System.
 
 # Overview:
 Gionet Vendor is a replica of an inhouse Inventory Management System.
