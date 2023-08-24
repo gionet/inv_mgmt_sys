@@ -3,7 +3,7 @@ Video Demo: https://www.youtube.com/watch?v=CDDvZ4ZmHB4
 Description: Inventory Management System
 
 # Overview:
-Gionet Vendor is a replica of an inhouse Inventory Management System.
+Gionet Vendor is a replica of an inhouse Inventory Management System
 The main purpose of this creation is to centralize and ease small vendor/business owners having to manually track client's subscription status on paper/excelsheet.
 
 ```
